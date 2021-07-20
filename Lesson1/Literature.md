@@ -1,0 +1,4 @@
+- <a href="https://blog.csdn.net/Leiroy/article/details/116136076">Windows 10 Anaconda 安装和使用入门 （超详细）</a>
+- <a href="https://zhuanlan.zhihu.com/p/39987793">windows下Anaconda及pycharm安装</a>
+- <a href="https://blog.csdn.net/cungudafa/article/details/105399278">Python+Opencv2（三）图像特征匹配</a>
+- <a href="https://blog.csdn.net/wangzhenyang2/article/details/85106267">一个用SIFT特征比较图像相似度的python小程序</a>
