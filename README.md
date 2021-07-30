@@ -8,15 +8,15 @@
 
 ## 学生
 - 张景浚
-  - USACO-Platinum
-  - Noip (National Olympiad in Informatics in Provinces)
-  - Programming: familiar with Python
+  - USACO-Platinum;
+  - Noip (National Olympiad in Informatics in Provinces);
+  - Programming: familiar with Python;
 
 - 何祖伦
-  - USACO-Gold
-  - FTC (First Tech Challenge)
-  - Programming: familiar with C++, general knowledge of Python & Java
-  - AMC 8 top 5%, AMC 10 in progress (American Mathematics Competition)
+  - USACO-Gold;
+  - FTC (First Tech Challenge);
+  - Programming: familiar with C++, general knowledge of Python & Java;
+  - AMC 8 top 5%, AMC 10 in progress (American Mathematics Competition);
 
 
 
@@ -32,10 +32,10 @@ for similarity search and indexing are needed, and the existing data structures 
 In this project, we need to propose a model of image dimensionality reduction algorithm that can achieve good performance in the field of image classification.
 
 ### PRECORE
-- Python Basics and Common Packages；
-- Basics of Calculus, Linear Algebra, Probability and Statistics；
-- Basics of Machine Learning；
-- Basics of Computer Vision
+- Python Basics and Common Packages;
+- Basics of Calculus, Linear Algebra, Probability and Statistics;
+- Basics of Machine Learning;
+- Basics of Computer Vision;
 
 ### INNOVATION
 The combination of state-of-the-art deep learning models and signal processing techniques to the create a new algorithm of image dimensionality reduction.
