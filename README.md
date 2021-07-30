@@ -21,7 +21,7 @@
 
 
 ## 课程介绍
-### <a href="https://github.com/RS-001-02/RM-1091-Dr.Wu/blob/main/%E6%9C%89%E6%96%B9-%E7%A7%91%E7%A0%94%E7%AB%9E%E8%B5%9B%E5%9F%B9%E5%85%BB%E6%96%B9%E6%A1%88-%E4%B8%93%E4%B8%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A0%94%E8%AE%A8%E7%8F%AD%E8%B4%BE%E6%98%8A%E9%BE%99%E8%AE%BE%E8%AE%A1.pdf">RESEARCH ON IMAGE DIMENSIONALITY REDUCTION           ALGORITHM</a>
+### <a href="https://github.com/RS-001-02/RM-805-Dr.Yang/blob/main/%E6%9C%89%E6%96%B9-%E7%A7%91%E7%A0%94%E5%9F%B9%E5%85%BB%E6%96%B9%E6%A1%88-%E4%B8%93%E4%B8%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A0%94%E8%AE%A8%E7%8F%AD%20%E5%BC%A0%E6%99%AF%E6%B5%9A%2C%E4%BD%95%E7%A5%96%E4%BC%A6%E8%AE%BE%E8%AE%A1.pdf">RESEARCH ON IMAGE DIMENSIONALITY REDUCTION ALGORITHM</a>
 
 Dimensionality reduction, or dimension reduction, is the transformation of data from a high-dimensional space into a low-dimensional space so that the low- dimensional
 representation retains some meaningful properties of the original data, ideally close to its intrinsic dimension.
