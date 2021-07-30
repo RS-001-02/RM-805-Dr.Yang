@@ -59,3 +59,12 @@ The combination of state-of-the-art deep learning models and signal processing t
 | TBA  | Paper Work|阶段性考察汇报：有方审核，论文定稿|
 | TBA  | Paper Work |论文发表启动（确定投稿目标期刊/会议）|
 | TBA  | Paper Work |论文发表收录|
+
+
+## 项目资料
+
+### LESSON 1
+- <a href="https://blog.csdn.net/Leiroy/article/details/116136076">Windows 10 Anaconda 安装和使用入门 （超详细）</a>
+- <a href="https://zhuanlan.zhihu.com/p/39987793">windows下Anaconda及pycharm安装</a>
+- <a href="https://blog.csdn.net/cungudafa/article/details/105399278">Python+Opencv2（三）图像特征匹配</a>
+- <a href="https://blog.csdn.net/wangzhenyang2/article/details/85106267">一个用SIFT特征比较图像相似度的python小程序</a>
