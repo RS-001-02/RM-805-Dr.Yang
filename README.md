@@ -60,3 +60,11 @@ The combination of state-of-the-art deep learning models and signal processing t
 | TBA  | Paper Work |论文发表启动（确定投稿目标期刊/会议）|
 | TBA  | Paper Work |论文发表收录|
 
+### 课程资料
+- <a href="https://blog.csdn.net/m0_38106923/article/details/115742347">十种方法实现图像数据集降维</a>
+- <a href="http://www.stat.columbia.edu/~fwood/Teaching/w4315/Fall2009/pca.pdf">Principal Component Analysis</a>
+- <a href="http://personal.psu.edu/jol2/course/stat597e/notes2/lda.pdf">Linear Discriminant Analysis</a>
+- <a href="https://blog.csdn.net/qq_45777142/article/details/115001574">Linear Discriminant Analysis（LDA）</a>
+- <a href="https://www.jianshu.com/p/bc97f487ad02">降维算法二：LDA（Linear Discriminant Analysis）</a>
+- <a href="https://blog.csdn.net/cungudafa/article/details/105399278">Python+Opencv2（三）图像特征匹配</a>
+- <a href="https://blog.csdn.net/wangzhenyang2/article/details/85106267">一个用SIFT特征比较图像相似度的python小程序</a>
