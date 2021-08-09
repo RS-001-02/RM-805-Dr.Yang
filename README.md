@@ -67,4 +67,4 @@ The combination of state-of-the-art deep learning models and signal processing t
 - <a href="https://blog.csdn.net/qq_45777142/article/details/115001574">Linear Discriminant Analysis（LDA）</a>
 - <a href="https://www.jianshu.com/p/bc97f487ad02">降维算法二：LDA（Linear Discriminant Analysis）</a>
 - <a href="https://blog.csdn.net/cungudafa/article/details/105399278">Python+Opencv2（三）图像特征匹配</a>
-- <a href="https://blog.csdn.net/wangzhenyang2/article/details/85106267">一个用SIFT特征比较图像相似度的python小程序</a>
+- <a href="https://blog.csdn.net/wangzhenyang2/article/details/85106267"><b>一个用SIFT特征比较图像相似度的python小程序</b></a>
